@@ -1,4 +1,4 @@
-# LSMVIP-android (internship)
+# LGMVIP-android (internship)
 
 ## tasks
 - **Task 1:** Create a COVID-19 Tracker Android App to See Details of any City and State in India. [view the demo video](./task1_covid19_tracker_app/video.webm)
